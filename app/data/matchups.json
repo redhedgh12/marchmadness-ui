@@ -2,8 +2,8 @@
 	"west": {
 		"left": [
 			{
-				"top": { "name": "Duke", "seed": 1},
-				"bottom": { "name": "Virginia", "seed": 8}
+				"top": { "name": "Duke", "seed": 1, "logo": "http://a.espncdn.com/i/teamlogos/ncaa/50x50/150.png" },
+				"bottom": { "name": "Virginia", "seed": 8, "logo": "http://a.espncdn.com/i/teamlogos/ncaa/50x50/258.png" }
 			},
 			{
 				"top": { "name": "Wake Forest", "seed": 2},
