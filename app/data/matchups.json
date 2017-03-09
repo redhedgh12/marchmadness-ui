@@ -1,0 +1,78 @@
+{
+	"west": {
+		"left": [
+			{
+				"top": { "name": "Duke", "seed": 1},
+				"bottom": { "name": "Virginia", "seed": 8}
+			},
+			{
+				"top": { "name": "Wake Forest", "seed": 2},
+				"bottom": { "name": "Clemson", "seed": 7}
+			},
+			{
+				"top": { "name": "North Carolina", "seed": 3},
+				"bottom": { "name": "Florida State", "seed": 6}
+			},
+			{
+				"top": { "name": "NC State", "seed": 4},
+				"bottom": { "name": "Maryland", "seed": 5}
+			}
+		],
+		"right": [
+			{
+				"top": { "name": "Minnesota", "seed": 1},
+				"bottom": { "name": "Northwester", "seed": 8}
+			},
+			{
+				"top": { "name": "Michigan", "seed": 2},
+				"bottom": { "name": "Iowa", "seed": 7}
+			},
+			{
+				"top": { "name": "Illinois", "seed": 3},
+				"bottom": { "name": "Wisconsin", "seed": 6}
+			},
+			{
+				"top": { "name": "Purdue", "seed": 4},
+				"bottom": { "name": "Boise State", "seed": 5}
+			}
+		]
+	},
+	"east": {
+		"left": [
+			{
+				"top": { "name": "Georgia Tech", "seed": 1},
+				"bottom": { "name": "Georgia", "seed": 8}
+			},
+			{
+				"top": { "name": "Auburn", "seed": 2},
+				"bottom": { "name": "Florida", "seed": 7}
+			},
+			{
+				"top": { "name": "Kentucky", "seed": 3},
+				"bottom": { "name": "Alabama", "seed": 6}
+			},
+			{
+				"top": { "name": "Vanderbilt", "seed": 4},
+				"bottom": { "name": "Gonzaga", "seed": 5}
+			}
+		],
+		"right": [
+			{
+				"top": { "name": "Penn State", "seed": 1},
+				"bottom": { "name": "Indiana", "seed": 8}
+			},
+			{
+				"top": { "name": "Ohio State", "seed": 2},
+				"bottom": { "name": "VCU", "seed": 7}
+			},
+			{
+				"top": { "name": "USC", "seed": 3},
+				"bottom": { "name": "Cal", "seed": 6}
+			},
+			{
+				"top": { "name": "Virginia Tech", "seed": 4},
+				"bottom": { "name": "Dartmouth", "seed": 5}
+			}
+		]
+	}
+}
